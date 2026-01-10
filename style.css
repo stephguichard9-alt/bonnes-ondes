@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #D6EAF8;
+}
+
+h1 {
+  text-align: center;
+  color: #21618C;
+}
+
+nav {
+  background-color: #85C1E9;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  color: white;
+}
+
+section {
+  border: 1px solid #85C1E9;
+  background-color: white;
+}
+
+footer {
+  background-color: #21618C;
+  color: white;
+  text-align: center;
+}
+img {
+  width: 120px;
+  height: auto;
+  display: block;
+}
+
+.csl-bib-body {
+  line-height: 2;
+  margin-left: 2em;
+  text-indent: -2em;
+}
